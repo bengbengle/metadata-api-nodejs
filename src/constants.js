@@ -1,5 +1,4 @@
-const HOST = 'https://metopia-api.herokuapp.com'
-// https://your-metadata-api.herokuapp.com
+const HOST = 'https://glacial-bastion-82012.herokuapp.com'
 module.exports = {
   HOST
 }
